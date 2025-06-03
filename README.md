@@ -8,9 +8,11 @@ Features:
 3. Product grid with images and titles
 4. Footer with useful links
 
+
 Technologies Used:
 1. HTML5
 2. CSS3
+
 
 Purpose:
 1. Structuring web pages with HTML
